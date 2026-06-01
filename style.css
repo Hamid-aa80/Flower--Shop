@@ -1,8 +1,3 @@
-:root {
-    --pink: #e84393;
-
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -37,7 +32,7 @@ section {
 }
 
 .heading span {
-    color: var(--pink);
+    color: #e84393;
 }
 
 .btn {
@@ -53,7 +48,7 @@ section {
 }
 
 .btn:hover {
-    background: var(--pink);
+    background: #e84393;
 }
 
 header {
@@ -77,7 +72,7 @@ header .logo {
 }
 
 header .logo span {
-    color: var(--pink);
+    color: #e84393;
 }
 
 header .navbar a {
@@ -87,7 +82,7 @@ header .navbar a {
 }
 
 header .navbar a:hover {
-    color: var(--pink);
+    color: #e84393;
 }
 
 header .icons a {
@@ -97,7 +92,7 @@ header .icons a {
 }
 
 header .icons a:hover {
-    color: var(--pink);
+    color: #e84393;
 }
 
 header #toggler {
@@ -135,7 +130,7 @@ header .fa-bars {
 
 .home .content span {
     font-size: 3.5rem;
-    color: var(--pink);
+    color: #e84393;
     padding: 1rem 0;
     line-height: 1.5;
 }
@@ -251,7 +246,7 @@ header .fa-bars {
     top: 1rem;
     left: 1rem;
     background: rgba(255, 51, 153, .5);
-    color: var(--pink);
+    color: #e84393;
     padding: .7rem 1rem;
     font-size: 2rem;
     z-index: 1;
@@ -293,7 +288,7 @@ header .fa-bars {
     font-size: 2rem;
     width: 50%;
     color: #fff;
-    background: var(--pink);
+    background: #e84393;
 
 }
 
@@ -319,7 +314,7 @@ header .fa-bars {
 
 .products .box-container .box .content .price {
     font-size: 2.5rem;
-    color: var(--pink);
+    color: #e84393;
     font-weight: bolder;
     padding-top: 1rem;
 }
@@ -355,7 +350,7 @@ header .fa-bars {
 }
 
 .review .box-container .box .stars i {
-    color: var(--pink);
+    color: #e84393;
     font-size: 2rem;
 }
 
@@ -379,7 +374,7 @@ header .fa-bars {
     border-radius: 50%;
     object-fit: cover;
     margin-right: 1rem;
-    
+
 }
 
 .review .box-container .box .user h1 {
@@ -429,7 +424,7 @@ header .fa-bars {
 }
 
 .contact .row form .Box:focus {
-    border-color: var(--pink);
+    border-color: #e84393;
 }
 
 .contact .row form textarea {
@@ -462,7 +457,7 @@ header .fa-bars {
 }
 
 .footer .box-container .box a:hover {
-    color: var(--pink);
+    color: #e84393;
     text-decoration: underline;
 }
 
@@ -482,7 +477,7 @@ header .fa-bars {
 }
 
 .footer .credit span {
-    color: var(--pink);
+    color: #e84393;
 }
 
 
