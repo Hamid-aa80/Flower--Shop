@@ -312,8 +312,8 @@ header .fa-bars {
     text-align: center;
 }
 
-.products .box-container .box .content h3 {
-    font-size: 2.5rem;
+.products .box-container .box .content h1 {
+    font-size: 2rem;
     color: #333;
 }
 
@@ -379,9 +379,10 @@ header .fa-bars {
     border-radius: 50%;
     object-fit: cover;
     margin-right: 1rem;
+    
 }
 
-.review .box-container .box .user h3 {
+.review .box-container .box .user h1 {
     font-size: 2rem;
     color: #333;
 }
