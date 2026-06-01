@@ -12,25 +12,6 @@ This is a simple professional template for showcasing my work. I am a creative a
 
 I developed the website using Visual Code IDE,  HTML, CSS, and Bootstrap V5 to ensure responsiveness for mobile, tablet and desktop devices. My design reflects a luxury look but very affordable. I used soft neutral tones and elegant fonts.
 
-## USER EXPERIENCE (UX)
-
-### Target Audience
-
-
-### User Goals
-
-
-### Business Goals
-
-
-
-## Features
-
-## Future Features
-
-
-## USER STORIES
-
 
 My user stories were managed through Github Issues and can be viewed here:
 
@@ -58,33 +39,6 @@ The board was structured into columns:
 
 My wireframes were created using Figma at the start of my project to plan the layout and structure of my website. This helped to plan the content, placement and navigation before applying design and writing my codes. As you will see I decided to incorporate the About section onto my homepage to reduce load times and simplify navigation and improve mobile usability.
 
-### Wireframe screenshots
-
-### Mobile Device
-![Homepage mobile](assets/images/Homepage-mobile.png) ![About mobile](assets/images/About-mobile.png) 
-![Services mobile](assets/images/Services-mobile.png) ![Gallery mobile](assets/images/Gallery-mobile.png)
-
-### Tablet Device
-![Home tablet](assets/images/Home-tablet.png) ![About tablet](assets/images/About-tablet.png) ![Services tablet](assets/images/Services-tablet.png) ![Gallery tablet](assets/images/Gallery-tablet.png)
-
-
-### Desktop Device
-![Home desktop](assets/images/Home-desktop.png) ![About desktop](assets/images/About-desktop.png) ![Services desktop](assets/images/Services-desktop.png) ![Gallery desktop](assets/images/Gallery-desktop.png)
-
-## Color Scheme
-
-I used color palettes:  
-- #444 
-- #fff
-- #666
-
-I also chose fonts:  
-('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-
-
-Colors and fonts were implemented using CSS variables.
-
-### Color Palette
 
 ## Technologies Used
 
@@ -115,40 +69,12 @@ Colors and fonts were implemented using CSS variables.
 - The confirmation message appears after booking submission
 
 
-![Manual testing screenshot HTML](assets/images/manual-testing-html.png)
-![Manual testing screenshot CSS](assets/images/manual-testing-css.png)
-
-## SCREENSHOTS
-
-### Navbar
-
-
-### Homepage
-
-![Homepage](colors.png)
-
-### Services Page
-
-![Services page](images.png)
-
-### Gallery Page 
-
-![Gallery page](images.png)
-
-### Booking page
+![Manual testing screenshot HTML](images/HTML test Validate by URI.png)
+![Manual testing screenshot CSS](images/CSS test Validate by URI.png)
 
 
 
 
-
-
-### Lighthouse Testing
-
-
-
-
-
-## DEPLOYMENT
 
 My project was deployed using Github:
 
@@ -161,22 +87,3 @@ My project was deployed using Github:
 4. The main branch was chosen as the deployment source
 
 5. Github generated the live site URL
-
-![Github pages]
-
-The site was tested after deployment to make sure all links and assets functioned correctly.
-
-
-## CREDITS
-
-AI Usage 
-
-ChatGPT was used as a support tool during development for:
-
-- Troubleshooting layout and styling issues, and improving READme structure and wording 
-
-So I made sure to review all codes so I can understand them. The design of the website, testing and implementation were done by me.
-I did have inspiration from the Love Running gallery and service cards from the Boardwalk Games.
- 
-
-## MEDIA

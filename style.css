@@ -3,8 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Verdana', Geneva, Tahoma, sans-serif;
-    webkit-font-smoothing: antialiased;
-    moz-osx-font-smoothing: grayscale;
     outline: none;
     border: none;
     text-decoration: none;
