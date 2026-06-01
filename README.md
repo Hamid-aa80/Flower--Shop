@@ -68,11 +68,8 @@ My wireframes were created using Figma at the start of my project to plan the la
 - The date and time inputs function correctly
 - The confirmation message appears after booking submission
 
-
-![Manual testing screenshot HTML](images/HTML test Validate by URI.png)
-![Manual testing screenshot CSS](images/CSS test Validate by URI.png)
-
-
+![Manual testing screenshot HTML](images/HTML-Test-Validate-by-URI.png)
+![Manual testing screenshot CSS](images/CSS-Test-Validate-by-URI.png)
 
 
 
