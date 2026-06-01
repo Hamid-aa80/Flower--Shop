@@ -128,7 +128,7 @@ header .fa-bars {
     max-width: 50rem;
 }
 
-.home .content h3 {
+.home .content h1 {
     font-size: 6rem;
     color: #333;
 }
@@ -531,7 +531,7 @@ header .fa-bars {
         display: block;
     }
 
-    .home .content h3 {
+    .home .content h1 {
         font-size: 5rem;
     }
 
@@ -539,7 +539,7 @@ header .fa-bars {
         font-size: 2.5rem;
     }
 
-    .icons-container .icons h3 {
+    .icons-container .icons h1 {
         font-size: 2rem;
     }
 
