@@ -6,17 +6,63 @@ Live website:
 https://hamid-aa80.github.io/Flower--Shop/
 Repository:
 https://github.com/Hamid-aa80/Flower--Shop.git
-## PROJECT OVERVIEW
+## PROJECT purpose
 
-This is a simple professional template for showcasing my work. I am a creative and motivated web developer who is passionate about designing and developing modern websites
-
-I developed the website using Visual Code IDE,  HTML, CSS, and Bootstrap V5 to ensure responsiveness for mobile, tablet and desktop devices. My design reflects a luxury look but very affordable. I used soft neutral tones and elegant fonts.
+The project purpose for a flower shop is to establish a viable retail and design business that delivers high-quality floral products and exceptional experiences to fulfill the community's emotional, celebratory, and decorative needs. It bridges the gap between local growers and consumers, turning perishable inventory into meaningful, artistic customer connections.
 
 
-My user stories were managed through Github Issues and can be viewed here:
+- Emotional Connection: Helping customers express love, sympathy, gratitude, and celebration through the universal language of flowers.
+- Aesthetic & Design Excellence: Providing expert floral artistry, custom arrangements, and event styling that standard supermarkets cannot replicate.
+- Community & Sustainability: Sourcing reliable, fresh blooms from local growers to support the regional economy and promote sustainable agricultural practices.
+## target audience
+The target audience for a flower shop consists of consumers purchasing for emotional expression, event planners requiring large-scale decor, and corporate clients seeking regular space styling. 
 
-[View All User Stories (Github Issues)
+- Holiday & Occasion Shoppers: Customers buying for Valentine's Day, Mother's Day, anniversaries, and birthdays.
+- Expression Shoppers: Individuals purchasing arrangements to express specific emotions, such as sympathy, romantic love, congratulations, or "get well" wishes.
+- Self-Care Buyers: People who buy affordable bunches or potted plants strictly to decorate their own homes or improve their mental well-being.
+- Last-Minute Impulse Buyers: Foot traffic customers needing a quick, pre-made bouquet on their way to a dinner party or date.
 
+## User goals 
+represent the specific needs, desires, and tasks that customers hope to accomplish when interacting with a flower shop. 
+
+- Evoke an emotion: Trigger a specific feeling in the recipient, such as love, sympathy, comfort, or joy.
+- Ensure perfect timing: Have the flowers arrive exactly on the specific date, such as a birthday or anniversary.
+- Send fresh product: Guarantee the arrangement looks pristine and lasts for days after delivery.
+- Personalise the gift: Add a custom card message, preferred color palette, or specific flower varieties.
+
+
+## Business and site owner goals 
+focus on driving profitability, operational efficiency, and brand loyalty. 
+
+- Maximise Average Order Value : Use smart upselling to encourage customers to add premium vases, chocolates, candles, or larger bouquet sizes during checkout.
+- Secure Recurring Revenue: Drive predictable income by promoting weekly, monthly, or holiday-based floral subscription models for both homes and businesses.
+
+## User stories
+- As a last-minute shopper,
+ * I want to filter arrangements by "available for same-day delivery"So that I can guarantee my anniversary gift arrives on time today.
+- As a sentimental sender,
+* I want to type a custom message into a digital greeting card during checkoutSo that the recipient knows exactly who the flowers are from and why.
+- As a forgetful partner,
+  * I want to opt-in to annual calendar reminders for my spouse's birthdaySo that the system automatically alerts me a week in advance every year.
+
+## features
+- Responsive navigation bar
+- Services section using Bootstrap V5 cards
+- Nail add-ons table using Bootstrap V5 table
+- Image gallery section
+- Booking form with validation
+- Date and time selection inputs
+- Confirmation/success message after submission
+- Social media icons in footer
+- Custom favicon
+
+## Future Features
+
+- Online payments
+- Customer testimonials
+- Availability calendar
+- Request a nail technician
+- Booking management system
 ## PROJECT BOARD
 
 A Github Project Board was used to manage development and track my user story tasks.
@@ -39,7 +85,37 @@ The board was structured into columns:
 
 My wireframes were created using Figma at the start of my project to plan the layout and structure of my website. This helped to plan the content, placement and navigation before applying design and writing my codes. As you will see I decided to incorporate the About section onto my homepage to reduce load times and simplify navigation and improve mobile usability.
 
+### Wireframe screenshots
 
+### Mobile Device
+
+![Homepage mobile](images/Homepage-mobile.png) 
+![About mobile](images/About-mobile.png) 
+![Services mobile](images/Services-mobile.png) 
+![Gallery mobile](images/Gallery-mobile.png)
+
+### Tablet Device
+![Home tablet](images/Home-tablet.png) 
+![About tablet](images/About-tablet.png) 
+![Services tablet](images/Services-tablet.png) 
+![Gallery tablet](images/Gallery-tablet.png)
+
+### Desktop Device
+![Home desktop](images/Home-desktop.png) 
+![About desktop](images/About-desktop.png) 
+![Services desktop](images/Services-desktop.png) 
+![Gallery desktop](images/Gallery-desktop.png)
+
+## Color Scheme
+
+- '#e84393'
+
+### Color Palette  
+
+![Pink](images/pink.png)
+
+## Contrast Checker 
+![Pink](images/Contrast-pink.png)
 ## Technologies Used
 
 - HTML
@@ -84,3 +160,30 @@ My project was deployed using Github:
 4. The main branch was chosen as the deployment source
 
 5. Github generated the live site URL
+
+
+## SCREENSHOTS
+
+### Navbar
+
+![Navbar](images/Navbar.png)
+
+### Homepage
+
+![Home page](images/Home-page.png)
+
+### About page
+
+![About page](images/About-page.png)
+
+### Products Page
+
+![Products page](images/Products-page.png)
+
+### review Page 
+
+![review page](images/review-page.png)
+
+### Contact page
+
+![Contact page](images/Contact-page.png)
