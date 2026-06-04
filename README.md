@@ -47,10 +47,7 @@ focus on driving profitability, operational efficiency, and brand loyalty.
 
 ## features
 - Responsive navigation bar
-- Services section using Bootstrap V5 cards
-- Nail add-ons table using Bootstrap V5 table
 - Image gallery section
-- Booking form with validation
 - Date and time selection inputs
 - Confirmation/success message after submission
 - Social media icons in footer
@@ -61,7 +58,7 @@ focus on driving profitability, operational efficiency, and brand loyalty.
 - Online payments
 - Customer testimonials
 - Availability calendar
-- Request a nail technician
+- Request a flower
 - Booking management system
 ## PROJECT BOARD
 
