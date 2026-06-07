@@ -159,6 +159,17 @@ My project was deployed using Github:
 
 5. Github generated the live site URL
 
+### Lighthouse 
+
+#### (index.html) - Desktop
+
+![Lighthouse test index.html](images/Lighthouse-test-desktop.jpg)
+
+#### (index.html) - Mobile
+
+![PageSpeed Insights](images/PageSpeed-Insights.jpg)
+
+
 ## SCREENSHOTS
 
 ### Navbar
