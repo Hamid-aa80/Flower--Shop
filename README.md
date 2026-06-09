@@ -159,7 +159,7 @@ My project was deployed using Github:
 
 5. Github generated the live site URL
 
-### Lighthouse 
+### Lighthouse
 
 #### (index.html) - Desktop
 
@@ -168,7 +168,6 @@ My project was deployed using Github:
 #### (index.html) - Mobile
 
 ![PageSpeed Insights](images/PageSpeed-Insights.jpg)
-
 
 ## SCREENSHOTS
 
@@ -195,3 +194,42 @@ My project was deployed using Github:
 ### Contact page
 
 ![Contact page](images/Contact-page.png)
+
+## Deployment
+
+This project was developed using [VScode](https://code.visualstudio.com/), commited to git and pushed to GitHub using the built in function within VScode.
+
+This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
+
+These are the steps that can be taken to deploy the page on GitHub pages from it's [GitHub repository](hamid-aa80.github.io/Flower--Shop/):
+
+1. Log into GitHub. 
+2. From the list of repositories on the screen, select [https://hamid-aa80.github.io/Flower--Shop/] 
+3. From the menu items near the top of the page, select Settings. 
+4. Scroll down to the GitHub Pages section. 
+5. Under Source the drop-down menu should display Deploy from a branch 
+6. On selecting Main Branch the page is automatically refreshed, the website is now deployed. 
+7. Scroll back up to the GitHub Pages section to retrieve the link to the deployed website.
+
+
+The deployed site can also be found on the repository page on the right handside under Deployments.
+
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone into your terminal. This can be found on the main repository page, clicking the code button and copy to cut ties with this GitHub repository, type git remote rm origin into the terminal.
+
+![GitHUb clone](images/GitHub-clone.png)
+
+## Credits
+
+### Content 
+- The welcome paragraph on the homepage.
+- The testimonials on the Reviewing. 
+- products on the products page with discount.
+
+### Code
+ - Custom CSS code was written by me.
+ - Some HTML was imported directly from Bootstrap V5.3 
+ - Grid systems 
+ - rows, columns and cards. Navigation bar.
+
+ ### Media and Photos 
+ - All media and photos used by Google.
